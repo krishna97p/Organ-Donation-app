@@ -25,6 +25,3 @@ Contributer Team : Bhavsar Mehul, Ami Dave, Krishna Panchal
 
 # License
 All rights reseved by Organ-Donation Team  
-
-
-
